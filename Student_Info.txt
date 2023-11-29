@@ -1,0 +1,4 @@
+Fullname: melina eqbali , code= 124 , avg= 17.3
+Fullname: pedram azini , code= 12346 , avg= 12.6
+Fullname: yegane abedi , code= 12348 , avg= 18.7
+Fullname: mreza lotfi , code= 123456789 , avg= 19.99
